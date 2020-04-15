@@ -1,6 +1,8 @@
 # CMPM163Labs
 CMPM163 - Game Graphics and Real-time Rendering. UC Santa Cruz Spring '20.
+
 Dr. Oskar Elek
+
 This repository contains the projects I've created for this class.
 
 ## Lab2: Intro to Three.js
