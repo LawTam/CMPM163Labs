@@ -5,16 +5,17 @@ Dr. Oskar Elek
 
 This repository contains the projects I've created for this class.
 
-## Lab2: Intro to Three.js
+## Lab 2: Intro to Three.js
 https://drive.google.com/file/d/1CKSkuJHro8dgk-NTpe80hlE5MIGDCGpD/view?usp=sharing
 
 ![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab2/lab2_screenshot.png)
 
-## Lab3: Shaders in Three.js
+## Lab 3: Shaders in Three.js
 https://drive.google.com/file/d/18H5dAxuw8wcNyGABOfExCjOd3HrkzK4h/view?usp=sharing
 
-## Lab4: Textures and Normal Maps
+## Lab 4: Textures and Normal Maps
 https://drive.google.com/file/d/1Nt4OpuXDCKjy9xNuZz_cGVwo3deR7SEq/view?usp=sharing
+    
 How each cube was made:
 
 A) left cube: uses standard three.js built in texture mapping functionality. The cube is created with MeshPhongMaterial
