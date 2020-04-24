@@ -26,7 +26,7 @@ C) bottom cube: uses three.js built in texture mapping functionality. Includes a
 
 D) right cube: texture is loaded through UV mapping via shaders. 
 
-E) top cube: texture is loaded through UV mapping via shaders. The fragment shader for this cube is coded to tile the texture in a 2x2 pattern. I achieved this by minimizing the texture to map only to the bottom left quadrant, which is also the smallest quadrant. After understanding this, I realized that if I found a way to map each fragment shader's varying vUv coordinate in the other quadrants to their matching pixel in the bottom left quadrant, I could repeat the tile in the other quadrants. So, I simply saved a "translated" value respective to the vUv coordinated and used that to get a texel from texture2D() and assign that color to gl_fragColor.
+E) top cube: texture is loaded through UV mapping via shaders. The fragment shader for this cube is coded to tile the texture in a 2x2 pattern. I achieved this by minimizing the texture to map only to the bottom left quadrant, which is also the smallest quadrant. After understanding that the fragment shader just returned the color do be assigned to a vUv coordinate, I realized that if I found a way to map each fragment shader's varying vUv coordinate in the other quadrants to their match their "twin" pixel in the bottom left quadrant, I could repeat the same tile in the other quadrants. So, I simply saved a "translated" value respective to the vUv coordinated and used that to get a texel from texture2D() and assign that color to gl_fragColor. This way, I repeated a pattern in a 2x2 pattern.
 
 ### 24. Questions
 
