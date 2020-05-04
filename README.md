@@ -10,11 +10,18 @@ https://drive.google.com/file/d/1CKSkuJHro8dgk-NTpe80hlE5MIGDCGpD/view?usp=shari
 
 ![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab2/lab2_screenshot.png)
 
+
 ## Lab 3: Shaders in Three.js
+Video: Playing with shaders and different geometries.
+
 https://drive.google.com/file/d/18H5dAxuw8wcNyGABOfExCjOd3HrkzK4h/view?usp=sharing
 
+
 ## Lab 4: Textures and Normal Maps
+Video: Normal map applied in the center cube. Tiling on the top cube.
+
 https://drive.google.com/file/d/1Nt4OpuXDCKjy9xNuZz_cGVwo3deR7SEq/view?usp=sharing
+    
     
 ### How each cube was made:
 
