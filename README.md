@@ -35,3 +35,18 @@ E) top cube: texture is loaded through UV mapping via shaders. The fragment shad
     b. ceiling(8 * v) - 1 = y
     
     c. uv(0.375, 0.25) = xy(2, 1) -> white
+    
+## Lab 5: Choose your own adventure
+I chose to take the ThreeJS adventure and learn a little more about particle programming.
+
+Part 1: Traveling through a particle universe
+
+https://drive.google.com/file/d/1sJzLMWiDCcdm_ymW1CflXCsYbpGyzIhj/view?usp=sharing
+
+Part 2: Particle Explosion
+
+https://drive.google.com/file/d/1YBG9HyTkNHaiVgOgm1I0q5a6FgU_no19/view?usp=sharing
+
+Part 3: Particle wave
+
+https://drive.google.com/file/d/13PIX6PbnTn_pOQKThQi5BdZyRZJvqzZ9/view?usp=sharing
