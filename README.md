@@ -46,14 +46,15 @@ E) top cube: texture is loaded through UV mapping via shaders. The fragment shad
 ## Lab 5: Choose your own adventure
 I chose to take the ThreeJS adventure and learn a little more about particle programming.
 
-Part 1: Traveling through a particle universe
+### Part 1: Traveling through a particle universe
 
 https://drive.google.com/file/d/1sJzLMWiDCcdm_ymW1CflXCsYbpGyzIhj/view?usp=sharing
 
-Part 2: Particle Explosion
+### Part 2: Particle Explosion
 
 https://drive.google.com/file/d/1YBG9HyTkNHaiVgOgm1I0q5a6FgU_no19/view?usp=sharing
 
-Part 3: Particle wave
+### Part 3: Particle wave
+I made this wave by making a grid of particles, then having the y value of each particle to follow the form of a sine wave. 
 
 https://drive.google.com/file/d/13PIX6PbnTn_pOQKThQi5BdZyRZJvqzZ9/view?usp=sharing
