@@ -44,9 +44,11 @@ E) top cube: texture is loaded through UV mapping via shaders. The fragment shad
     c. uv(0.375, 0.25) = xy(2, 1) -> white
     
 ## Lab 5: Choose your own adventure
-I did both Unity and Three.js projects for this lab. Unity Hub has some bugs with opening projects right now.
+I did both Unity and Three.js projects for this lab. Unity Hub has some bugs with opening projects right now. 
 
 ### Unity: 
+For the Unity project, I made the particles white, and modified the color and emission for most of the world's game objects. Finally, I changed the sky cube to be completely white.
+
 https://connect.unity.com/mg/karting/racecar-particles
 
 ### Part 1: Traveling through a particle universe
