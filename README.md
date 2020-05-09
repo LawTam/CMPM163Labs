@@ -58,6 +58,6 @@ https://drive.google.com/file/d/1sJzLMWiDCcdm_ymW1CflXCsYbpGyzIhj/view?usp=shari
 https://drive.google.com/file/d/1YBG9HyTkNHaiVgOgm1I0q5a6FgU_no19/view?usp=sharing
 
 ### Part 3: Particle wave
-I made this wave by making a grid of particles, then having the y value of each particle to follow the form of a sine wave. 
+I made this wave by making a grid of particles, then having the y value of each particle follow the value of a sin wave as a function of time.
 
 https://drive.google.com/file/d/13PIX6PbnTn_pOQKThQi5BdZyRZJvqzZ9/view?usp=sharing
