@@ -61,3 +61,8 @@ https://drive.google.com/file/d/1YBG9HyTkNHaiVgOgm1I0q5a6FgU_no19/view?usp=shari
 I made this wave by making a grid of particles, then having the y value of each particle follow the value of a sin wave as a function of time.
 
 https://drive.google.com/file/d/13PIX6PbnTn_pOQKThQi5BdZyRZJvqzZ9/view?usp=sharing
+
+## Lab 6: Shading in Unity or Shadertoy
+For this assignment I chose to do shadertoy.
+
+https://www.shadertoy.com/view/WslBDB
