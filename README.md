@@ -65,4 +65,6 @@ https://drive.google.com/file/d/13PIX6PbnTn_pOQKThQi5BdZyRZJvqzZ9/view?usp=shari
 ## Lab 6: Shading in Unity or Shadertoy
 For this assignment I chose to do shadertoy.
 
-https://www.shadertoy.com/view/WslBDB
+My assignment: https://www.shadertoy.com/view/WslBDB
+
+Inspiration for fog: https://www.shadertoy.com/view/WdyXzz
