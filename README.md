@@ -81,3 +81,7 @@ Height map + textures captures:
 Phong shaded sine waves with physics-consistent normals:
 
 https://drive.google.com/file/d/18OcSqszTYU1Qwn9eYMWrt0ilPCcv7Alf/view?usp=sharing
+
+Creative scene:
+
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab7/creative.png)
