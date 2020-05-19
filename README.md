@@ -68,3 +68,16 @@ For this assignment I chose to do shadertoy.
 My assignment: https://www.shadertoy.com/view/WslBDB
 
 Inspiration for fog: https://www.shadertoy.com/view/WdyXzz
+
+## Lab 7: Mesh Manipulation
+For this assignment I went with three.js.
+
+Height map + textures captures:
+
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab7/grad_volcano.png)
+
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab7/rock_volcano.png)
+
+Phong shaded sine waves with physics-consistent normals:
+
+https://drive.google.com/file/d/18OcSqszTYU1Qwn9eYMWrt0ilPCcv7Alf/view?usp=sharing
