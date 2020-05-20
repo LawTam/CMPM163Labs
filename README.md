@@ -85,3 +85,10 @@ https://drive.google.com/file/d/18OcSqszTYU1Qwn9eYMWrt0ilPCcv7Alf/view?usp=shari
 Creative scene:
 
 ![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab7/creative.png)
+
+Partner response (Baoqing Xie): 
+Which part did they do? part2
+
+Which part of a tutorial did your partner find most challenging? Creative the mountain waves, and try to find a way to make it looks more pretty
+
+Which part of a tutorial did your partner find most interesting? the part c of the lab
