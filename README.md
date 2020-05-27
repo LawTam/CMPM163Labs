@@ -92,3 +92,20 @@ Which part did they do? part2
 Which part of a tutorial did your partner find most challenging? Creative the mountain waves, and try to find a way to make it looks more pretty
 
 Which part of a tutorial did your partner find most interesting? the part c of the lab
+
+## Lab 8: Procedurally Generated City
+For this assignment I followed a tutorial to procedurally generate a city in Unity with this Youtube video:
+
+https://www.youtube.com/watch?v=xkuniXI3SEE 
+
+Tutorial: City generated with seeded Perlin noise
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/CityGenerator/tutorial.png)
+
+Creative: Town at Full Moon. 
+
+Inspired by lighting in Don't Starve. I wanted to make a cartoon scene like this next picture into something more realistic, which is the picture below that.
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/CityGenerator/dont_starve.jpg)
+
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/CityGenerator/creative.png)
+
+I didn't have a legitimate partner name for this lab, so I didn't talk to a partner.
