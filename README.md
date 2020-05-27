@@ -104,8 +104,8 @@ Tutorial: City generated with seeded Perlin noise
 Creative: Town at Full Moon. 
 
 Inspired by lighting in Don't Starve. I wanted to make a cartoon scene like this next picture into something more realistic, which is the picture below that.
-![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/CityGenerator/dont_starve.jpg)
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/dont_starve.jpg)
 
-![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/CityGenerator/creative.png)
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/creative.png)
 
 I didn't have a legitimate partner name for this lab, so I didn't talk to a partner.
