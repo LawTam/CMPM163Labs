@@ -92,6 +92,7 @@ Which part did they do? part2
 Which part of a tutorial did your partner find most challenging? Creative the mountain waves, and try to find a way to make it looks more pretty
 
 Which part of a tutorial did your partner find most interesting? the part c of the lab
+Which part of a tutorial did your partner find most interesting? the part c of the lab
 
 ## Lab 8: Procedurally Generated City
 For this assignment I followed a tutorial to procedurally generate a city in Unity with this Youtube video:
