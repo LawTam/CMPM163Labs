@@ -118,3 +118,19 @@ For this assignment I recreated the L-System in javascript.
 ![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab9/2.png)
 ![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab9/3.png)
 ![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/4.png)
+
+Then I used a new sequence by adding a 'B' branch and changing the rules to:
+```
+rules[0] = {
+    a:'F',
+    b:'FF+[+F+F]-[-F-F]'
+};
+rules[1] = {
+    a:'B',
+    b:'BB+[-B+B]-[-B+B]'
+}
+```
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab9/a.png)
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab9/b.png)
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab9/c.png)
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/d.png)
