@@ -100,7 +100,7 @@ For this assignment I followed a tutorial to procedurally generate a city in Uni
 https://www.youtube.com/watch?v=xkuniXI3SEE 
 
 Tutorial: City generated with seeded Perlin noise
-![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/CityGenerator/tutorial.png)
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/tutorial.png)
 
 Creative: Town at Full Moon. 
 
