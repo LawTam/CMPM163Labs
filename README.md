@@ -110,3 +110,11 @@ Inspired by lighting in Don't Starve. I wanted to make a cartoon scene like this
 ![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/creative.png)
 
 I didn't have a legitimate partner name for this lab, so I didn't talk to a partner.
+
+## Lab 9: L-Systems
+For this assignment I recreated the L-System in javascript.
+
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab9/1.png)
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab9/2.png)
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab9/3.png)
+![alt text](https://github.com/LawTam/CMPM163Labs/blob/master/Lab8/4.png)
